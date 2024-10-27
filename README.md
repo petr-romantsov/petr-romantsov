@@ -1,5 +1,5 @@
  <div id="badges" align="center">
-    <a href="www.linkedin.com/in/petr-romantsov-8a5256326">
+    <a href="https://www.linkedin.com/in/petr-romantsov-8a5256326/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn badge">
     </a>
     <a href="mailto:romantsovp@gmail.com">
