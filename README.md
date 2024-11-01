@@ -28,6 +28,7 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Jest-%23e30b5c?style=for-the-badge&logo=Jest)
 ![HTML5](https://img.shields.io/badge/HTML5-%23e34c26?style=for-the-badge&logo=HTML&logoColor=%23ffffff)
 ![CSS3](https://img.shields.io/badge/CSS3-%23264de4?style=for-the-badge&logo=CSS&logoColor=%23ffffff)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
