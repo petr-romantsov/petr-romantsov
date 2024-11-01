@@ -17,7 +17,7 @@
 * 🌍 I live in Moscow, Russia.
 * :computer: I am passionate about development and constantly strive to improve my skills by learning new technologies and approaches.
 * 🧠 In my free time, I solve problems on leetcode  <a href="https://leetcode.com/u/romantsof/"><img src="https://img.shields.io/badge/Leetcode-%23383838?style=flat&logo=Leetcode&logoColor=%23ff8e13" alt="leetcode badge"></a> and coderun, and also read specialized literature (currently “You Don’t Know JavaScript” by Kyle Simpson and “HTML and CSS” by John Duckett).
-* ✉️  How t oreach me: [![Telegram Badge](https://img.shields.io/badge/-romantsovpetr-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/romantsoff) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:romantsovp@gmail.com)
+* ✉️  How to reach me: [![Telegram Badge](https://img.shields.io/badge/-romantsovpetr-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/romantsoff) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:romantsovp@gmail.com)
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
